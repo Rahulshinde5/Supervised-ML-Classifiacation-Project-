@@ -1,5 +1,4 @@
-# Project Title and Description
-Health Insurance Cross-Selling Prediction
+# Health Insurance Cross-Selling Prediction
 
 ## Project Overview
 This project aimed to predict customer responses for health insurance cross-selling. The analysis involved data preprocessing, model training, evaluation, and visualization of insights.
