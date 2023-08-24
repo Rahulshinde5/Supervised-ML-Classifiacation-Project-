@@ -33,7 +33,6 @@ Link to the presentation slides,[Click here](https://drive.google.com/file/d/178
 - Seaborn
 
 ## Acknowledgements
-- Data sourced from New York City Taxi and Limousine Commission.
 - Inspiration from similar projects and online tutorials from AlmaBetter.
 
 ## Contact Information
